@@ -1,0 +1,22 @@
+PODS:
+  - Whisper (0.1.0):
+    - Whisper/Core (= 0.1.0)
+    - Whisper/Extensions (= 0.1.0)
+    - Whisper/Metal (= 0.1.0)
+  - Whisper/Core (0.1.0)
+  - Whisper/Extensions (0.1.0)
+  - Whisper/Metal (0.1.0)
+
+DEPENDENCIES:
+  - Whisper (from `../`)
+
+EXTERNAL SOURCES:
+  Whisper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Whisper: 76061cca87472fed4580c45b04386411b8040b0b
+
+PODFILE CHECKSUM: c917273a0a1e4a6dbea2901fd278fee46fbb942f
+
+COCOAPODS: 1.13.0

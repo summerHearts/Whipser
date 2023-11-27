@@ -20,6 +20,9 @@ it, simply add the following line to your Podfile:
 pod 'Whisper'
 ```
 
+## download gmm-model  and add to the project
+
+[gmml](https://ggml.ggerganov.com/)
 ## Author
 
 summerhearts@163.com, summerhearts@163.com
